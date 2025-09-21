@@ -11,7 +11,7 @@ public class Main {
 
         assembler.constructComputer();
 
-        Computer gamingComputer = assembler.getComputer();
+               Computer gamingComputer = assembler.getComputer();
 
         System.out.println("\n" + "the computer is assembled:\n" + gamingComputer);
     }
