@@ -1,6 +1,6 @@
 package DAsiq1;
 
-public class asiq1 {
+public class MergeSort {
 
     private static final int CUTOFF = 16; // small-n cutoff (Insertion Sort)
     private static long comparisons = 0;
@@ -83,5 +83,8 @@ public class asiq1 {
             if (j >= left) comparisons++;
             arr[j + 1] = key;
         }
+    }
+
+    public static void mergeSort(int[] arr, int i, int i1) {
     }
 }

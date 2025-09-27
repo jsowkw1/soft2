@@ -1,6 +1,6 @@
 package DAsiq1;
 
-public class quick{
+public class QuickSort {
 
     public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
