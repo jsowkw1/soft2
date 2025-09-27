@@ -12,7 +12,7 @@ public class deter {
 
         System.out.println(k + "-th element: " + result);
         Arrays.sort(arr);
-        System.out.println("checking");
+        System.out.println("checking "+arr[k]);
     }
 
 
