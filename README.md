@@ -1,4 +1,4 @@
-# soft2
+# DAsiq1
 Assignment 1 – Divide and Conquer Algorithms
 1. Architecture Notes
 
